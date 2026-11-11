@@ -53,5 +53,5 @@
     "Исправлено: toast при автопинге (Null check OverlayEntry), краш при большом числе серверов, окно консоли в «О приложении», прокрутка changelog"
   ],
   "downloadUrl": "https://github.com/UnseenConnect/unseenconnect-desktop/releases/latest/download/UnseenConnect-Setup.exe",
-  "sha256": "11610e85110807e5099d85412a52124fe20ead3b8c087ea1e4b0ee050adc5ace"
+  "sha256": "9974e94bf8a7176f8407cf780b3f6832415881638133b8ff7708148aea9788ba"
 }
